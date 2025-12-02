@@ -1,6 +1,1 @@
-```
-The code provided as part of this repository is ONLY for learning purposes!
-```
-
-# Copyright
-Copyright © 2024 inpyjama.com. All Rights Reserved.
+This is a repo for my own self tutoring with help of makefile course from courses.pyjamabrah.com .
